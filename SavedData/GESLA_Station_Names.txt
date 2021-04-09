@@ -1,0 +1,300 @@
+Abashiri
+Aberdeen
+Aburatsu
+Acajutla
+Acapulco
+Adak
+Alameda
+Algeciras
+Annapolis
+Antofagasta
+Argentia
+Arrecife
+Astoria
+Atlantic City
+Ayukawa
+Balboa
+Baltimore
+Bamfield
+Bar Harbor Frenchman Bay
+Bayonne Boucau
+Bella Bella
+Bermuda
+Boston
+Brest
+Bridgeport
+Buenaventura
+Buenos Aires
+Cadiz
+Calais
+Callao
+Cambridge
+Campbell River
+Cananeia
+Cape May
+Cartagena
+Cascais
+Ceuta
+Charleston OR
+Charleston SC
+Charlottetown
+Cherbourg
+Chesapeake
+Chichijima
+Choshigyoko
+Christmas
+Churchill
+Cordova
+Crescent City
+Cristobal
+Cuxhaven
+Degerby
+Delfzijl
+Den Helder
+Dieppe
+Dover
+Duck Pier
+Dunkerque
+Easter
+Eastport
+Esbjerg
+Faraday
+Fernandina Beach
+Fishguard
+Forsmark
+Fort Denison
+Fort Pulaski
+Freeport
+Fukaura
+Fukue
+Fulford Harbour
+Furuogrund
+Galveston Pier 21
+Galveston Pleasure Pier
+Gedser
+GoteborgTorshamnen
+Grand Isle
+Guam
+Hachinohe
+Hakodate
+Halifax
+Hamina
+Hanasaki
+Hanko
+Heimsjoe
+Helsinki
+Heysham
+Hilo
+Hoek van Holland
+Holyhead
+Honningsvaag
+Honolulu
+Hornbaek
+Hosojima
+Ilha Fiscal
+Immingham
+Ishigaki
+Johnston Island
+Juneau
+Kagoshima
+Kahului
+Kalix
+Kanton
+Kaskinen
+Kemi
+Ketchikan
+Key West
+Klagshamn
+Kobe
+Kochi
+Kodiak Island
+Komatsushima
+Kuminotsu
+Kungsholmsfort
+Kungsvik
+Kushimoto
+Kushiro
+Kwajalein
+Coruna
+La Jolla
+La Libertad
+Landsort
+Le Conquet
+Le Havre
+Lerwick
+Lewes
+Los Angeles
+Lower Escuminac
+Lowestoft
+Luderitz
+Maaloey
+Magueyes Island
+Maisaka
+Maizuru
+Makurazaki
+Malaga
+Malakal
+Malin Head
+Mantyluoto
+Marviken
+Matsuyama
+Mayport
+Mera
+Midway
+Misumi
+Miyakejima
+Miyako
+Mokuoloe
+Montauk
+Monterey
+Mossel Bay
+Murotomisaki
+Nagasaki
+Nagoya
+Naha
+Nantucket
+Nawiliwili
+Naze
+Neah Bay
+New London
+Newlyn
+Newport
+New Westminster
+New York
+Nishinoomote
+North Shields
+North Sydney
+Noumea
+Ofunato
+Okada
+OlandsNorraUdde
+Omaezaki
+Onahama
+Osaka
+Oskarshamn
+Oslo
+Oulu
+Oura
+Owase
+Pago Pago
+Papeete
+Patricia Bay
+Penrhyn
+Pensacola
+Pietarsaari
+Point Atkinson
+Port-aux-Basques
+Port Nolloth
+Port Tudy
+Port Hardy
+Port Isabel
+Portland
+Portpatrick
+Port San Luis
+Prince Rupert
+Providence
+Puerto De La Luz
+Puerto Williams
+Queen Charlotte City
+Raahe
+Ratan
+Rauma
+Reedy Point
+Reykjavik
+Rikitea
+Ringhals
+Rockport
+Roervik
+Roscoff
+Saigo
+Saint Gildas
+Saint-Jean-de-Luz
+Saint John
+Sakai
+Salina Cruz
+San Diego
+San Francisco
+San Juan
+Sand Point
+Sandy Hook
+Santa Cruz
+Santa Monica
+Santander
+Seattle
+Seldovia
+Seward
+Sewells Point
+Sheerness
+Shimizuminato
+Shirahama
+Simon's Town
+Simrishamn
+Sitka
+Skagway
+Smogen
+Solomon's Island
+South Beach
+Spikarna
+Springmaid Pier
+St. Johns
+St. Petersburg
+Stenungsund
+Stockholm
+Sumoto
+Takamatsu
+Tannowa
+Tarifa
+Toba
+Tofino
+Tokyo
+Tosashimizu
+Toyama
+Tregde
+Trieste
+Tumaco
+Turku
+Uchiura
+Ullapool
+Unalaska
+Uno
+Uragami
+Uwajima
+Vaasa
+Valdez
+Valparaiso
+Vancouver
+Venezia
+Victoria
+Vigo
+Viken
+Visby
+Wakayama
+Wake Island
+Wakkanai
+Washington DC
+Wellington
+Wick
+Willapa Bay
+Willets Point
+Wilmington
+Wladyslawowo
+Woods Hole
+Xiamen
+Yakutat
+Yap
+Yarmouth
+Yokohama
+Baltra
+French Frigate
+Hong Kong
+Honiara
+Majuro
+Manzanillo
+Nauru
+Pohnpei
+Port Louis
+Rarotonga
+S.Cruz d. Palma
+San Diego Quarantine Station
+Suva
+Tarawa
